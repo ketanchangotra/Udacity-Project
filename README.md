@@ -1,5 +1,7 @@
 ### Predict Listing Price for AirBnB Seattle 
-The Project is part of Udacity Data Scientist Nanodegree.
+The Project is part of Udacity Data Scientist Nanodegree
+
+![Equalizer](https://github.com/ketanchangotra/Udacity-Project/blob/master/Correlation%20chart.png)
 
 ### Installations:
 Anaconda enviroment with python 3.6 
