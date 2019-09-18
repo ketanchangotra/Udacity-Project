@@ -58,21 +58,21 @@ We ranked all the listing attributes used to predict Price as per the feature im
 ![Equalizer](https://github.com/ketanchangotra/Udacity-Project/blob/master/Feature%20Importance.png)
 
 Following is the list of top fifteen attributes explaining the Price.
-•	Reviews per Month
-•	No.of Accomodates
-•	Availability in 365 days
-•	No. of Bathrooms
-•	Reviews score rating
-•	No. of Bedrooms
-•	No. of Host Listings
-•	No. of Guests
-•	Minimum Nights Stay
-•	No. of Reviews
-•	Capitol Hill as the Neighborhood
-•	Availability in 30 days
-•	Downtown as the Neighborhood
-•	No. of Beds
-•	Availability in 90 days
+- Reviews per Month
+- No.of Accomodates
+- Availability in 365 days
+- No. of Bathrooms
+- Reviews score rating
+- No. of Bedrooms
+- No. of Host Listings
+- No. of Guests
+- Minimum Nights Stay
+- No. of Reviews
+- Capitol Hill as the Neighborhood
+- Availability in 30 days
+- Downtown as the Neighborhood
+- No. of Beds
+- Availability in 90 days
 
 ### Licensing, Authors, Acknowledgements, etc.
 The project has been completed by myself.
