@@ -75,6 +75,7 @@ Following is the list of top fifteen attributes explaining the Price.
 - No. of Beds
 - Availability in 90 days
 
+For the Blog post please refer to link  (https://medium.com/@ketanchangotra/airbnb-listing-price-prediction-672f271a63f9)
 ### Licensing, Authors, Acknowledgements, etc.
 The project has been completed by myself.
 
