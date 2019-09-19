@@ -24,9 +24,10 @@ We used Anaconda environment with Python 3.6
 ### Motivation:
 We need to come up with some questions related to the data and answer them through data analysis.
 Following are the questions as per the Business Understanding.
-Question 1: How to predict price of the new listing?
-Question 2: Which ML technique will be most suitable for the price detection based on the available data?
-Question 3: What are the most important features driving the listing price? 
+
+- Question 1: How to predict price of the new listing?
+- Question 2: Which ML technique will be most suitable for the price detection based on the available data?
+- Question 3: What are the most important features driving the listing price? 
 
 
 ### Data Understanding and Preparation:
